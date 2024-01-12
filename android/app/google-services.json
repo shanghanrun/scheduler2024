@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "255154096940",
+    "firebase_url": "https://choco-firebase-ex001-default-rtdb.firebaseio.com",
+    "project_id": "choco-firebase-ex001",
+    "storage_bucket": "choco-firebase-ex001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255154096940:android:5520c27503e7af7d35ba89",
+        "android_client_info": {
+          "package_name": "com.choco.scheduler2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQOTwvG9iFU5aNNjaeEAGnXn6Ip1pHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255154096940:android:03072abb3dfe25c135ba89",
+        "android_client_info": {
+          "package_name": "com.example.calendar_scheduler_ex01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQOTwvG9iFU5aNNjaeEAGnXn6Ip1pHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255154096940:android:03bdae983fe30a5135ba89",
+        "android_client_info": {
+          "package_name": "com.example.chat_ex01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQOTwvG9iFU5aNNjaeEAGnXn6Ip1pHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255154096940:android:df2dd6d81aacf10e35ba89",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ex01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQOTwvG9iFU5aNNjaeEAGnXn6Ip1pHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255154096940:android:797b2385139ed46f35ba89",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ex02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQOTwvG9iFU5aNNjaeEAGnXn6Ip1pHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255154096940:android:743a12bddc263b7235ba89",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQOTwvG9iFU5aNNjaeEAGnXn6Ip1pHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255154096940:android:7b42e9e77b46fb7f35ba89",
+        "android_client_info": {
+          "package_name": "com.example.use_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQOTwvG9iFU5aNNjaeEAGnXn6Ip1pHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
